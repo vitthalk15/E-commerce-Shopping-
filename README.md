@@ -4,6 +4,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Welcome to my E-commerce shopping web page project! This project is built using Next.js and Tailwind CSS to provide a modern and responsive shopping experience for users.
 
+## Access Web Page
+
+You can access the web page directly at [E-commerce Shopping Web Page](https://e-commerce-shopping-gamma.vercel.app/).
+
+
 ## Features
 
 - **Next.js:** Utilizing the power of React with server-side rendering for fast page loads and seamless navigation.
